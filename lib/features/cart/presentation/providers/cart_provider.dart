@@ -1,4 +1,4 @@
-import 'package:provider_architecture/features/cart/domain/repositories/cart_repository.dart';
+import 'package:provider_architectur/features/cart/domain/repositories/cart_repository.dart';
 import '../../domain/entities/product.dart';
 import 'package:flutter/material.dart';
 
