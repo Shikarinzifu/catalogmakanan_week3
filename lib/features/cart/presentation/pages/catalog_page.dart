@@ -16,7 +16,7 @@ class CatalogPage extends StatelessWidget {
   Widget build(BuildContext context){
    return Scaffold(
       appBar: AppBar(
-        title: const Text('Katalog makanan'),
+        title: const Text('Katalog Makanan'),
         actions: [
           IconButton(
             onPressed: () => Navigator.pushNamed(context, AppRouter.cart), 
