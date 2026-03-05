@@ -52,7 +52,7 @@ class MyCatalog extends StatelessWidget {
 
   @override
   Widget build(BuildContext context){
-    final products = ['Nasi Goyeng', 'Sate ayam', 'Es Teh', 'Ayam Bakar', 'kopi'];
+    final products = ['Nasi Goyeng', 'Sate ayam', 'Es Teh', 'Ayam Bakar', 'Kopi'];
 
     return Scaffold(
       appBar: AppBar(
